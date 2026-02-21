@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\views\\requestsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\views\\requestsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\viewmodels\\requestsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\viewmodels\\requestsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\views\\requestsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\views\\requestsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\migrations\\20260221093318_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\migrations\\20260221093318_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|c:\\users\\cppnu\\desktop\\govno\\equipmentservicedesk\\equipmentservicedesk\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F102E589-AED1-4902-B564-0262580645BB}|EquipmentServiceDesk\\EquipmentServiceDesk.csproj|solutionrelative:equipmentservicedesk\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:43:10.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Services\\RequestService.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Services\\RequestService.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Services\\RequestService.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Services\\RequestService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T12:01:52.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\ViewModels\\RequestsViewModel.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\ViewModels\\RequestsViewModel.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\ViewModels\\RequestsViewModel.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\ViewModels\\RequestsViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T11:11:03.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\RequestsView.xaml.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Views\\RequestsView.xaml.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\RequestsView.xaml.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Views\\RequestsView.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T11:08:43.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\App.xaml.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\App.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T11:59:18.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:38:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:01:18.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:52:23.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:11:35.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Services\\AuthService.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:40:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:16:39.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\appsettings.json",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\appsettings.json",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\appsettings.json",
+              "RelativeToolTip": "EquipmentServiceDesk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T14:46:28.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:05:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:07:26.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\LoginView.xaml",
+              "RelativeToolTip": "EquipmentServiceDesk\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T09:58:17.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\App.xaml",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\App.xaml",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\App.xaml",
+              "RelativeToolTip": "EquipmentServiceDesk\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T10:39:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\MainWindow.xaml",
+              "RelativeToolTip": "EquipmentServiceDesk\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T08:52:24.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Models\\Request.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:11:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Models\\User.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:04:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Helpers\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:34:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestsView.xaml",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\RequestsView.xaml",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Views\\RequestsView.xaml",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Views\\RequestsView.xaml",
+              "RelativeToolTip": "EquipmentServiceDesk\\Views\\RequestsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T11:06:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260221093318_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Migrations\\20260221093318_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Migrations\\20260221093318_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Migrations\\20260221093318_InitialCreate.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Migrations\\20260221093318_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:33:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "EquipmentServiceDesk\\Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\cppnu\\Desktop\\Govno\\EquipmentServiceDesk\\EquipmentServiceDesk\\Models\\Equipment.cs",
+              "RelativeToolTip": "EquipmentServiceDesk\\Models\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:08:46.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
